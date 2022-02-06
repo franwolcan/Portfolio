@@ -1,0 +1,1 @@
+Se desarrolla un analisis descriptivo, feature enginering, seleccion de variables, validacion de modelos con el proposito de encontrar si potenciales clientes para realizar un deposito a plazo.
