@@ -1,0 +1,3 @@
+4th place out of 3946 participants in Data Camp competition.
+
+Develop exploratory data analysis, dimensionality reduction techniques, unsupervised learning algorithms, and hyperparameter tuning,in order to find the ten best regions in Russia to launch a wine promotion.
