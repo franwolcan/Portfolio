@@ -1,0 +1,4 @@
+index,Model,Recall,n_features
+0,Logistic Regression,0.7350375549747106,19
+1,RFC,0.9656443673379336,37
+2,GBC,0.7517568137337062,34
